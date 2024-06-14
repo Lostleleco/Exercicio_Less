@@ -1,0 +1,17 @@
+{
+  "name": "ex_less",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "less": "less-watch-compiler src/styles dist/styles"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compiler": "^0.1.2",
+    "less": "^4.2.0",
+    "watch": "^0.13.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
